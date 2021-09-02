@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matheus.
-- 👀 I’m interested in Data Science, AI, Software Engineering
+- 👀 I’m interested in Software Engineering, AI, Data Science
 - 🌱 I’m currently learning C# and .NET
-- 💞️ I’m looking to collaborate on Data Science, Software Engineering
+- 💞️ I’m looking to collaborate on Software Engineering and Data Science
 - 📫 Reach me on matheustalves@outlook.com
 
 <!---

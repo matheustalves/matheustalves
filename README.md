@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus.
 - 👀 I’m interested in Software Engineering, AI, Data Science
-- 🌱 I’m currently learning C#, .NET and Rust
+- 🌱 I’m currently learning React Native Rust
 - 💞️ I’m looking to collaborate on Software Engineering and Data Science
 - 📫 Reach me on matheustalves@outlook.com
 

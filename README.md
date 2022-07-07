@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matheus.
 - 👀 I’m interested in Software Engineering, AI, Data Science.
 - 🌱 I’m currently working in Inbenta as a Software Developer.
-- 📫 You can reach me on matheustalves@outlook.com
+- 📫 You can reach me on googlmatheus@gmail.com
 
 <!---
 matheustalves/matheustalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
